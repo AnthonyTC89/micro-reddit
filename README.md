@@ -1,4 +1,11 @@
 # README
+Authors:
+
+    Matheus Lopez https://github.com/matheus-fls
+    Anthony Tapia https://github.com/AnthonyTC89
+
+Project: Building With Active Record
+https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
