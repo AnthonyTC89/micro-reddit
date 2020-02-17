@@ -1,31 +1,49 @@
-# README
-Authors:
+<p align="center">
+  <h1 align="center">MICRO REDDIT</h1>
 
-    Matheus Lopez https://github.com/matheus-fls
-    Anthony Tapia https://github.com/AnthonyTC89
+  <p align="center">
+    Back-end project create with Ruby on Rails
+    <br>
+    <br>
+    <a href="https://github.com/AnthonyTC89/micro-reddit/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/AnthonyTC89/micro-reddit/issues">Request Feature</a>
+  </p>
+  <br>
+</p>
 
-Project: Building With Active Record
-https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Installation](#installation)
+* [Contact](#Contact)
 
-Things you may want to cover:
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-* Ruby version
+This project is based of [Reddit](https://www.reddit.com/) part of the course [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails). 
+The goal of the project is learn about models, associations, and validations on Rails.
 
-* System dependencies
+### Built With
 
-* Configuration
+* [Ruby](https://www.w3.org/html/)
+* [Rails](https://www.w3.org/Style/CSS/)
 
-* Database creation
+### Installation
 
-* Database initialization
+  1. clone the repository [micro_reddit](https://github.com/AnthonyTC89/micro-reddit)
+  2. cd in the app folder and run `bundle install`
+  3. run `yarn install --check-files` if it's necessary
+  4. run `rails db:migrate`
+  5. run `rails console`
+  6. Use the command `User.create` to set new users.
+  7. Use the command `Post.create` to set new post associated with an user.
+  8. Use the command `Comment.create` to set a new comment associated with an user and a post.
+  
+### Contact
 
-* How to run the test suite
+* **[Anthony Tapia Cossio](https://github.com/AnthonyTC89) - [Linkedin](linkedin.com/in/anthony-tapia-cossio) - [Twitter](https://twitter.com/ptonypTC) - [Portfolio](https://portfolio-anthony.herokuapp.com/)**
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* **[Matheus Lopez](https://github.com/matheus-fls)**
