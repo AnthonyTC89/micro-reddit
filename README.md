@@ -28,8 +28,8 @@ The goal of the project is learn about models, associations, and validations on 
 
 ### Built With
 
-* [Ruby](https://www.w3.org/html/)
-* [Rails](https://www.w3.org/Style/CSS/)
+* [Ruby](https://www.ruby-lang.org/en/)
+* [Ruby on Rails](https://rubyonrails.org/)
 
 ### Installation
 
